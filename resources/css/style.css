@@ -1,0 +1,14 @@
+body {
+  font-family: verdana;
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-size: 3.125em;
+  color: white;
+}
+
+.aqua-link {
+  color: aquamarine;
+  font-size: 1em;
+}
